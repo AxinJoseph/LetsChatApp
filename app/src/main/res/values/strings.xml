@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LetsChat</string>
+    <string name="no_account_signup">No Account? <b>SignUp</b></string>
+    <string name="have_account_login">Have Account? <b>Login</b></string>
+</resources>
